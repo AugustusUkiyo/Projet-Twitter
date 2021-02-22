@@ -1,0 +1,218 @@
+#div_principal_pro{
+    border: solid;
+    box-shadow: 2px 2px 5px black;
+    width: 100%;
+    height: 100vh;
+}
+
+#header_pro{
+    height: 20%;
+    border: solid;
+    border-width: 1px;
+    background-color: gold;
+}
+
+#body_pro{
+    height: 80%;
+    border: solid;
+    border-width: 1px;
+}
+
+#logo, #lien_deconnexion{
+    vertical-align: top;
+    margin-top: 2.2%/*40px*/;
+    height: 60%;
+    width: 25%;
+    border: solid;
+    border-width: 1px;
+    margin-left: 5%/*90px*/;
+    background-color: white;
+}
+
+#img{
+    width: 100%;
+    height: 100%;
+}
+
+#deco{
+    height: 100%;
+    width: 100%;
+    font-size: 240%/*30px*/;
+}
+
+#zone_recherche{
+    vertical-align: top;
+    margin-top: 2.2%/*40px*/;
+    height: 60%;
+    width: 30%;
+    border: solid;
+    border-width: 1px;
+    margin-left: 5%/*90px*/;
+    background-color: #FFEFD5;
+    display:inline-block;
+
+}
+
+#recherche{
+    vertical-align: top;
+    height:50%;
+    width: 75%;
+    margin-top: 5.3%/*30px*/;
+    margin-left: 4%/*20px*/;
+    font-size: 20px;
+    padding-left: 8px;
+}
+
+#recherche_submit{
+    vertical-align: top;
+    height:55%;
+    width: 14%;
+    margin-top: 5.3%/*30px*/;
+    margin-left: 2%/*10px*/;
+}
+
+#bloc1_pro{
+    display:inline-block;
+    height: 100%;
+    width: 15%;
+    border: solid;
+    border-width: 1px;
+}
+
+#liste_ami_pro{
+    vertical-align: top;
+    height: 40%;
+    width: 100%;
+    background-color: #AF550894;
+}
+
+#titre_liste_ami_pro{
+    margin-left: 30%;
+    color: white;
+    font-size: 100%;
+}
+
+#sup_ami_button{
+    width:30%;
+}
+
+#profil_pro{
+    /* vertical-align: top; */
+    height: 35%;
+    width: 100%;
+    border: solid;
+    border-width: 1px;
+    background-color: #CD853F;
+}
+
+#profil_user_pro{
+    margin-left: 35%;
+    color: white;
+    font-size: 25px;
+}
+
+#statsPerso{
+    margin-top: 5%;
+}
+
+#nom_prenom{
+    border: solid;
+    border-width: 1px;
+    color: blue;
+    font-size: 25px;
+}
+
+#nb_msg_pro,#nb_amis_pro{
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+#reste_pro{
+    vertical-align: top;
+    height: 100%;
+    width: 84.75%;
+    border: solid;
+    border-width: 1px;
+    background-color: #FFEFD5;
+    margin-left: -0.2%;
+    display:inline-block;
+
+}
+
+#nouveau_message_pro{
+    height: 20%;
+    width: 80%;
+    border: solid;
+    border-width: 1px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+#nv_msg_pro{
+    height: 60%;
+    width: 99.5%;
+    font-size: 100%/*15px*/;
+}
+
+#nv_msg_submit_pro{
+    height: 20%;
+    width: 20%;
+    margin-top: 0.8%/*10px*/;
+    margin-left: 65%;
+}
+
+#liste_messages_pro{
+    height: 60%;
+    width: 80%;
+    border: solid;
+    border-width: 1px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+.message_pro{
+    height: 20%;
+    width: 80%;
+    border: solid;
+    border-width: 1px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+#entete_msg_pro{
+    background-color: #808000;
+}
+
+#msg_nom_pro{
+    display:inline-block;
+    color: white;
+}
+
+#msg_date_pro{
+    display:inline-block;
+    margin-left: 5%;
+    color: white;
+}
+
+#msg_text_pro{
+    margin-top: 1%;
+}
+
+#suppr_msg_button_pro{
+    width: 10%;
+    margin-top: 5%;
+    margin-left: 80%;
+}
+
+#nom_site_pro{
+    color: blue;
+    font-size: 50px;
+    padding-left: 12%;
+    height: 13%;
+    background-color: #AF550894;
+    margin-top:-0.1%;
+    padding-top:35%;
+}

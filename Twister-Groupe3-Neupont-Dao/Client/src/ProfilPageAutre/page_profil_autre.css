@@ -1,0 +1,223 @@
+#div_principal_pro_autre{
+    border: solid;
+    box-shadow: 2px 2px 5px black;
+    width: 100%;
+    height: 100vh;
+}
+
+#header_pro_autre{
+    height: 20%;
+    border: solid;
+    border-width: 1px;
+    background-color: gold;
+}
+
+#body_pro_autre{
+    height: 80%;
+    border: solid;
+    border-width: 1px;
+}
+
+#logo, #lien_deconnexion{
+    vertical-align: top;
+    margin-top: 2.2%/*40px*/;
+    height: 60%;
+    width: 25%;
+    border: solid;
+    border-width: 1px;
+    margin-left: 5%/*90px*/;
+    background-color: white;
+}
+
+#img{
+    width: 100%;
+    height: 100%;
+}
+
+#deco{
+    height: 100%;
+    width: 100%;
+    font-size: 240%/*30px*/;
+}
+
+#zone_recherche{
+    vertical-align: top;
+    margin-top: 2.2%/*40px*/;
+    height: 60%;
+    width: 30%;
+    border: solid;
+    border-width: 1px;
+    margin-left: 5%/*90px*/;
+    background-color: #FFEFD5;
+    display:inline-block;
+
+}
+
+#recherche{
+    vertical-align: top;
+    height:50%;
+    width: 75%;
+    margin-top: 5.3%/*30px*/;
+    margin-left: 4%/*20px*/;
+    font-size: 20px;
+    padding-left: 8px;
+}
+
+#recherche_submit{
+    vertical-align: top;
+    height:55%;
+    width: 14%;
+    margin-top: 5.3%/*30px*/;
+    margin-left: 2%/*10px*/;
+}
+
+#bloc1_pro_autre{
+    display:inline-block;
+    height: 100%;
+    width: 15%;
+    border: solid;
+    border-width: 1px;
+}
+
+#liste_ami_pro_autre{
+    vertical-align: top;
+    height: 40%;
+    width: 100%;
+    background-color: #AF550894;
+}
+
+#titre_liste_ami_pro_autre{
+    margin-left: 30%;
+    color: white;
+    font-size: 100%;
+}
+
+#profil_pro_autre{
+    /* vertical-align: top; */
+    height: 35%;
+    width: 100%;
+    border: solid;
+    border-width: 1px;
+    background-color: #CD853F;
+}
+
+#profil_user_pro_autre{
+    margin-left: 35%;
+    color: white;
+    font-size: 25px;
+}
+
+#statsPersoAutre{
+    margin-top: 5%;
+}
+
+#nom_prenom_autre{
+    border: solid;
+    border-width: 1px;
+    color: blue;
+    font-size: 25px;
+}
+
+#nb_msg_pro_autre,#nb_amis_pro_autre{
+    margin-top: 8%;
+    font-size: 20px;
+}
+
+#button_add_f, #button_remove_f{
+    height: 20%;
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 19%;
+}
+
+#button_add_f{
+    color: green;
+}
+
+#button_remove_f{
+    color: red;
+}
+
+#reste_pro_autre{
+    vertical-align: top;
+    height: 100%;
+    width: 84.75%;
+    border: solid;
+    border-width: 1px;
+    background-color: #FFEFD5;
+    margin-left: -0.2%;
+    display:inline-block;
+
+}
+
+#nouveau_message_pro_autre{
+    height: 20%;
+    width: 80%;
+    border: solid;
+    border-width: 1px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+#nv_msg_pro_autre{
+    height: 60%;
+    width: 99.5%;
+    font-size: 100%/*15px*/;
+}
+
+#nv_msg_submit_pro_autre{
+    height: 20%;
+    width: 20%;
+    margin-top: 0.8%/*10px*/;
+    margin-left: 65%;
+}
+
+#liste_messages_pro_autre{
+    height: 60%;
+    width: 80%;
+    border: solid;
+    border-width: 1px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+.message_pro_autre{
+    height: 20%;
+    width: 80%;
+    border: solid;
+    border-width: 1px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+#entete_msg_pro{
+    background-color: #808000;
+}
+
+#msg_nom_pro_autre{
+    display:inline-block;
+    color: white;
+}
+
+#msg_date_pro_autre{
+    display:inline-block;
+    margin-left: 5%;
+    color: white;
+}
+
+#msg_text_pro_autre{
+    margin-top: 1%;
+}
+
+#nom_site_pro_autre{
+    color: blue;
+    font-size: 50px;
+    padding-left: 12%;
+    height: 20%;
+    background-color: #AF550894;
+    margin-top:-0.1%;
+    padding-top:15%;
+}
